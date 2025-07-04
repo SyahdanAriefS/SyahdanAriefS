@@ -13,10 +13,10 @@
 
 class CyberSecurityEnthusiast:
     def __init__(self):
-        self.name = "Your Name"
+        self.name = "Syahdan"
         self.role = "Cyber Security Enthusiast"
         self.location = "Batam, Indonesia"
-        self.current_work = "Penetration Testing & Security Research"
+        self.current_work = "Network Security"
         
     def get_skills(self):
         return {
@@ -59,35 +59,35 @@ print(f"Hello, I'm {security_expert.name}!")
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00ff41&border_color=00ff41"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=ffffff&border_color=00ff41"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SyahdanAriefS&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00ff41&border_color=00ff41"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyahdanAriefS&layout=compact&langs_count=8&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=ffffff&border_color=00ff41"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=chartreuse-dark&background=0d1117&border=00ff41&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyahdanAriefS&theme=chartreuse-dark&background=0d1117&border=00ff41&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="GitHub Streak" />
 </div>
 
 ## 🏆 Security Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=matrix&no-frame=true&row=1&column=7&title=MultiLanguage,Repositories,Commits,PullRequest,Reviews,Issues,Followers" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SyahdanAriefS&theme=matrix&no-frame=true&row=1&column=7&title=MultiLanguage,Repositories,Commits,PullRequest,Reviews,Issues,Followers" alt="GitHub Trophies" />
 </div>
 
 ## 🎯 Current Security Projects
 
 <div align="center">
-  <a href="https://github.com/yourusername/security-scanner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=security-scanner&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=ffffff&border_color=00ff41" />
+  <a href="https://github.com/SyahdanAriefS/security-scanner">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SyahdanAriefS&repo=Autofill-google-form-use-selenium&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=ffffff&border_color=00ff41" />
   </a>
-  <a href="https://github.com/yourusername/python-pentesting-tools">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=python-pentesting-tools&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=ffffff&border_color=00ff41" />
+  <a href="https://github.com/SyahdanAriefS/python-pentesting-tools">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SyahdanAriefS&repo=Cryptography-use-Caesar-algorithm&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=ffffff&border_color=00ff41" />
   </a>
 </div>
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=chartreuse-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyahdanAriefS&theme=chartreuse-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ## 🔍 Security Focus Areas
@@ -131,15 +131,6 @@ print(f"Hello, I'm {security_expert.name}!")
   </table>
 </div>
 
-## 🎓 Certifications & Learning
-
-<div align="center">
-  <img src="https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-red?style=for-the-badge&logo=ec-council&logoColor=white" />
-  <img src="https://img.shields.io/badge/OSCP-Penetration%20Tester-black?style=for-the-badge&logo=offensive-security&logoColor=white" />
-  <img src="https://img.shields.io/badge/CompTIA-Security%2B-blue?style=for-the-badge&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux%2B-Certified-green?style=for-the-badge&logo=linux&logoColor=white" />
-</div>
-
 ## 🌟 Random Security Quote
 
 <div align="center">
@@ -149,13 +140,13 @@ print(f"Hello, I'm {security_expert.name}!")
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/syahdan-arief-9ba475344/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/yourhandle">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:syahdanariefs@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://yourportfolio.com">
@@ -168,15 +159,13 @@ print(f"Hello, I'm {security_expert.name}!")
 
 ## 🔥 What I'm Up To
 
-- 🔭 Currently working on **Advanced Python Security Tools**
-- 🌱 Learning **Cloud Security (AWS/Azure)**
+- 🔭 Currently working on **Beginner Python Security Tools**
 - 👯 Looking to collaborate on **Open Source Security Projects**
-- 🤔 Exploring **AI in Cybersecurity**
-- 💬 Ask me about **Python, Linux, Penetration Testing, Network Security**
-- 📫 Reach me at: **your.email@example.com**
+- 💬 Ask me about **Python, Linux, Network Security**
+- 📫 Reach me at: **syahdanariefs@gmail.com**
 - ⚡ Fun fact: **I've found vulnerabilities in over 50 web applications!**
 
-## 🎯 2024 Goals
+## 🎯 2025 Goals
 
 - [ ] Contribute to 10+ open source security projects
 - [ ] Publish security research papers
@@ -227,8 +216,8 @@ scanner.scan_range(1, 1000)
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=SyahdanAriefS&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/SyahdanAriefS?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Security%20Focus-100%25-brightgreen?style=flat" alt="Security Focus" />
 </div>
 
