@@ -76,11 +76,11 @@ print(f"Hello, I'm {JustNothing}!")
 ## 🎯 Current Security Projects
 
 <div align="center">
-  <a href="https://github.com/SyahdanAriefS/security-scanner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SyahdanAriefS&repo=Autofill-google-form-use-selenium&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=ffffff&border_color=00ff41" />
+  <a href="https://github.com/SyahdanAriefS/PBL_RKS_2014">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SyahdanAriefS&repo=PBL_RKS_2014&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=ffffff&border_color=00ff41" />
   </a>
-  <a href="https://github.com/SyahdanAriefS/python-pentesting-tools">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SyahdanAriefS&repo=Cryptography-use-Caesar-algorithm&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=ffffff&border_color=00ff41" />
+  <a href="https://github.com/SyahdanAriefS/PBL_RKS_108">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SyahdanAriefS&PBL_RKS_108&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=ffffff&border_color=00ff41" />
   </a>
 </div>
 
