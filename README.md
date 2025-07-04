@@ -80,7 +80,7 @@ print(f"Hello, I'm {JustNothing}!")
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SyahdanAriefS&repo=PBL_RKS_2014&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=ffffff&border_color=00ff41" />
   </a>
   <a href="https://github.com/SyahdanAriefS/PBL_RKS_108">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SyahdanAriefS&PBL_RKS_108&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=ffffff&border_color=00ff41" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SyahdanAriefS&repo=PBL_RKS_108&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=ffffff&border_color=00ff41" />
   </a>
 </div>
 
