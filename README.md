@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=940&lines=Welcome+to+my+Digital+Fortress!;Penetration+Tester+%26+Security+Researcher;Linux+Enthusiast+%7C+Python+Developer;Securing+the+Digital+World+One+Line+at+a+Time" alt="Typing SVG" />
 </div>
 
-<img align="right" alt="Hacking" width="400" src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif">
+<img align="right" alt="Hacking" width="200" src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif">
 
 ## 🛡️ About Me
 
@@ -36,7 +36,7 @@ class CyberSecurityEnthusiast:
 
 # Initialize
 security_expert = CyberSecurityEnthusiast()
-print(f"Hello, I'm {security_expert.name}!")
+print(f"Hello, I'm {JustNothing}!")
 ```
 
 ## 🐧 Linux & Security Stack
