@@ -15,7 +15,7 @@ class CyberSecurityEnthusiast:
     def __init__(self):
         self.name = "Syahdan"
         self.role = "Cyber Security Enthusiast"
-        self.location = "Batam, Indonesia"
+        self.location = "Indonesia"
         self.current_work = "Network Security"
         
     def get_skills(self):
@@ -162,7 +162,7 @@ print(f"Hello, I'm {JustNothing}!")
 - 🔭 Currently working on **Beginner Python Security Tools**
 - 👯 Looking to collaborate on **Open Source Security Projects**
 - 💬 Ask me about **Python, Linux, Network Security**
-- 📫 Reach me at: **syahdanariefs@gmail.com**
+- 📫 Reach me at: **@gmail.com**
 - ⚡ Fun fact: **I've found vulnerabilities in over 50 web applications!**
 
 ## 🎯 2025 Goals
